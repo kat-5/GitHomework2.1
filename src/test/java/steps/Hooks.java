@@ -5,6 +5,7 @@ import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
 import utils.CommonMethods;
 
+
     public class Hooks extends CommonMethods {
         //import io.cucumber and not junit
 

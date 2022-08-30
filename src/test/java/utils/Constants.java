@@ -11,5 +11,10 @@ public class Constants {
         public static final String SCREENSHOT_FILEPATH = System.getProperty("user.dir")+"/screenshots/";
 
 
+        public static final String TEST_DATA_FILEPATH = System.getProperty("user.dir")+"/src/test/resources/testData/Batch13ExcelFile.xlsx";
 
-}
+
+    }
+
+
+

@@ -7,7 +7,6 @@ import utils.CommonMethods;
 import utils.ConfigReader;
 
 
-
     public class LoginSteps extends CommonMethods {
 
         //public static WebDriver driver;
